@@ -91,7 +91,7 @@
     }
 
     .textoImg{
-        top:25%;
+        top:35%;
         left:10%;
         width: 80%;
     }
@@ -102,3 +102,29 @@
     }
 } 
 
+/*--------------PAGE1--------------*/
+.tipo {
+    padding: 20px;
+    margin: 4px;
+    width: 150px;
+    height: auto;
+    text-align: center;
+}
+
+.textSize {
+    font-size: 14px;
+}
+.textSizeDesc {
+    font-size: 15px;
+}
+
+.pago{
+    background-color: #CCE5FF;
+    border-radius: 5px;
+    color: #004085;
+}
+
+.resized{
+    margin-right: 0px;
+    margin-left: 0px;
+}
